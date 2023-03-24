@@ -1,2 +1,2 @@
-* text=auto
-*.sql diff
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
